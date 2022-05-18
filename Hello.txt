@@ -1,47 +1,18 @@
 A
-<<<<<<< HEAD
 B
 B
-=======
 D
-<<<<<<< HEAD
 A
-=======
 C
->>>>>>> 371e2308d61aa4be4ecb818a20bddc75064fb628
-<<<<<<< HEAD
 B
-=======
-
 A
->>>>>>> 81ab7ceffea8273df9d7eb1742455f09f649f45d
-<<<<<<< HEAD
 B
-=======
-
 A
-<<<<<<< HEAD
->>>>>>> 7a9b43cba81c02b2ede3378176a1e27e3228d7ae
-=======
-
 Ủa, gì đây
-<<<<<<< HEAD
->>>>>>> 9a5e78dd6fd5384724a3df147172eea004
+04
 Hiep
-=======
->>>>>>> 9a5e78dd6fd5384724a3df147172eea0044a8d52
-
 DUC
->>>>>>> 88c1d3302570671a29172d8e08a2b8953248d24f
-
-<<<<<<< HEAD
-<<<<<<< HEAD
 DUKE
-=======
 HIEP
->>>>>>> 7390571e1ee92f78ca38e1c8aefe8d571a956176
-=======
 Hieu
->>>>>>> 73f8a2b5ae6b7a3c0c515cd65764e7d6be4e86de
-
 Duke123
