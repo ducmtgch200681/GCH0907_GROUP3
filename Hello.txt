@@ -34,4 +34,8 @@ Hiep
 DUC
 >>>>>>> 88c1d3302570671a29172d8e08a2b8953248d24f
 
+<<<<<<< HEAD
 DUKE
+=======
+Hieu
+>>>>>>> 73f8a2b5ae6b7a3c0c515cd65764e7d6be4e86de
