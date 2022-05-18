@@ -15,4 +15,9 @@ B
 
 A
 >>>>>>> 81ab7ceffea8273df9d7eb1742455f09f649f45d
+<<<<<<< HEAD
 B
+=======
+
+A
+>>>>>>> 7a9b43cba81c02b2ede3378176a1e27e3228d7ae
